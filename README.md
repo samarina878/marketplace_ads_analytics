@@ -77,6 +77,16 @@ Created a two-page interactive Power BI report:
 - Treatment effects
 - Statistical conclusions
 
+
+### Advertising Performance Dashboard
+
+![Advertising Performance Dashboard](images/dashboard_overview.png)
+
+### A/B Test Results Dashboard
+
+![A/B Test Results Dashboard](images/ab_test_dashboard.png)
+
+
 The interactive report is available in the `dashboard/` folder.
 
 ## Project Structure
